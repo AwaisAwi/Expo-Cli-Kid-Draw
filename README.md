@@ -17,3 +17,5 @@ yarn start
 👤 **HybridSolution**
 
 * Github: [@AwaisAwi](https://github.com/AwaisAwi/)
+
+👋 **Expo-Version-39**
