@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Kid Drawing",
+    "slug": "drawing-kids",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "js",
+        "jsx",
+        "svg",
+        "ts",
+        "tsx"
+      ]
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon_draw.png",
+    "splash": {
+      "image": "./assets/splash_3x.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tmstudio.drawingkids"
+    },
+    "android": {
+      "package": "com.tmstudio.drawingkids"
+    }
+  }
+}
