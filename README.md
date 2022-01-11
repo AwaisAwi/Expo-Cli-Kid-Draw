@@ -14,6 +14,6 @@ yarn start
 
 ## Author
 
-👤 **TMStudio**
+👤 **HybridSolution**
 
-* Github: [@dankuanmin](https://github.com/dankuanmin)
+* Github: [@AwaisAwi](https://github.com/AwaisAwi/)
